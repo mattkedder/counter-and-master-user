@@ -1,0 +1,44 @@
+
+/*
+Color
+=========================== */
+$color-title: #3a3a3a;
+$color-content: #6a6a6a;
+$color-primary: #01B075;
+$color-primary2: rgb(18, 133, 110);
+$color-danger: #FF4B3A;
+$color-secondary: #CBCBCB;
+$color-warning: #FFE41E;
+$color-success: #30C14F;
+$color-info: #35A7FF;
+
+:root {
+    --color-primary: #1e5ab4;
+    --color-primary2: #2263C5;
+}
+
+/*
+Break Responsive
+=========================== */
+$mobile-sm-screen: 480px;
+$mobile-screen: 767px;
+$ipad-sm-screen: 812px;
+$ipad-screen: 920px;
+
+/*
+Bootstrap Custom
+=========================== */
+$theme-colors: (
+    "primary": $color-primary,
+    "danger": $color-danger,
+    "secondary": $color-secondary,
+    "warning": $color-warning,
+    "success": $color-success,
+    "info": $color-info
+);
+
+/*
+Font Family
+=========================== */
+$font-family: 'Varela Round', sans-serif;
+$font-size: 14px;

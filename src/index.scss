@@ -1,0 +1,19 @@
+
+// Commons
+// =========================== */
+@import './assets/scss/fonts';
+@import './assets/scss/variables';
+
+// Dependencies
+// =========================== */
+@import 'primereact/resources/themes/saga-blue/theme.css';
+@import 'primereact/resources/primereact.min.css';
+@import 'primeicons/primeicons.css';
+@import 'bootstrap-scss/bootstrap';
+
+// Asset
+// ===============================
+@import './assets/scss/typography';
+@import './assets/scss/general';
+@import './assets/scss/helpers';
+@import './assets/scss/form';
